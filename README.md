@@ -8,6 +8,7 @@ The project focuses on building a modern, conversion-focused user experience usi
 This landing page promotes organic skincare products designed for sensitive skin.
 The design combines minimal aesthetics, soft natural colors, and trust-building sections to create a premium skincare brand experience.
 
+🚀 Live Demo
 🔗 https://developer-dibbo.github.io/glow-skin-naturals/
 
 🎯 Project Goal
